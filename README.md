@@ -4,3 +4,4 @@
 modifying this to chk status
 
 adding a messagse for git comit on local system
+new chng = git add and commit
